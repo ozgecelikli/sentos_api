@@ -1,0 +1,621 @@
+[
+  {
+    "sku": "TU-075",
+    "category_id": 57,
+    "name": "Necix Erkek bebek ayakkabı",
+    "invoice_name": "Necix Erkek bebek ayakkabı",
+    "brand": "sentos",
+    "description": "%100 Pamuklu",
+    "currency": "TL",
+    "purchase_price": 75,
+    "sale_price": 89,
+    "vat_rate": 8,
+    "volumetric_weight": 1,
+    "barcode": "14589657842",
+    "description_detail": "Necix's Erkek Bebek Beyaz uzun açıklama",
+    "stocks": [
+      {
+        "warehouse": 1,
+        "stock": 100
+      }
+    ],
+    "images": [],
+    "prices": {
+      "b2c": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "n11": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "trendyol": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "hepsiburada": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "ciceksepeti": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "epttavm": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "pazarama": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "modanisa": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "pasaj": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "amazon": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "beymen": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "lcw": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "joom": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "etsy": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "hepsiglobal": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "exporgin": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "woo": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "idea": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "hipotenus": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "opencart": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "ethica": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      },
+      "ikas": {
+        "list_price": "99",
+        "sale_price": "89.9"
+      }
+    },
+    "variants": [
+      {
+        "sku": "TU-076",
+        "barcode": "14589657843",
+        "model": {
+          "name": "Beden",
+          "value": "0-3 Ay"
+        },
+        "color": "Sarı",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 18
+          }
+        ],
+        "images": []
+      }
+    ]
+  },
+  {
+    "sku": "ELB-001",
+    "category_id": 23,
+    "name": "Kadın Yazlık Elbise",
+    "invoice_name": "Kadın Yazlık Elbise Pamuklu",
+    "brand": "ModaMarka",
+    "description": "%100 Pamuklu Yazlık Elbise",
+    "currency": "TL",
+    "purchase_price": 120,
+    "sale_price": 180,
+    "vat_rate": 18,
+    "volumetric_weight": 0.5,
+    "barcode": "9876543210987",
+    "description_detail": "Rahat ve şık kadın yazlık elbise. Pamuklu kumaştan üretilmiştir. Yaz aylarında rahatlıkla giyebilirsiniz.",
+    "stocks": [
+      {
+        "warehouse": 1,
+        "stock": 50
+      },
+      {
+        "warehouse": 2,
+        "stock": 25
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "url": "https://example.com/images/elbise1.jpg"
+      }
+    ],
+    "prices": {
+      "b2c": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "n11": {
+        "list_price": "220",
+        "sale_price": "190"
+      },
+      "trendyol": {
+        "list_price": "210",
+        "sale_price": "185"
+      },
+      "hepsiburada": {
+        "list_price": "215",
+        "sale_price": "188"
+      },
+      "ciceksepeti": {
+        "list_price": "205",
+        "sale_price": "182"
+      },
+      "epttavm": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "pazarama": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "modanisa": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "pasaj": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "amazon": {
+        "list_price": "225",
+        "sale_price": "195"
+      },
+      "beymen": {
+        "list_price": "250",
+        "sale_price": "220"
+      },
+      "lcw": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "joom": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "etsy": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "hepsiglobal": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "exporgin": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "woo": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "idea": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "hipotenus": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "opencart": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "ethica": {
+        "list_price": "200",
+        "sale_price": "180"
+      },
+      "ikas": {
+        "list_price": "200",
+        "sale_price": "180"
+      }
+    },
+    "variants": [
+      {
+        "sku": "ELB-001-S",
+        "barcode": "9876543210988",
+        "model": {
+          "name": "Beden",
+          "value": "S"
+        },
+        "color": "Mavi",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 15
+          }
+        ],
+        "images": []
+      },
+      {
+        "sku": "ELB-001-M",
+        "barcode": "9876543210989",
+        "model": {
+          "name": "Beden",
+          "value": "M"
+        },
+        "color": "Mavi",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 20
+          }
+        ],
+        "images": []
+      }
+    ]
+  },
+  {
+    "sku": "TEK-002",
+    "category_id": 45,
+    "name": "Erkek Polo Tişört",
+    "invoice_name": "Erkek Polo Tişört Pamuklu",
+    "brand": "SportMarka",
+    "description": "%100 Pamuklu Polo Tişört",
+    "currency": "TL",
+    "purchase_price": 85,
+    "sale_price": 125,
+    "vat_rate": 18,
+    "volumetric_weight": 0.3,
+    "barcode": "1234567890123",
+    "description_detail": "Kaliteli pamuklu kumaştan üretilmiş erkek polo tişört. Günlük kullanım için ideal.",
+    "stocks": [
+      {
+        "warehouse": 1,
+        "stock": 75
+      }
+    ],
+    "images": [
+      {
+        "id": 2,
+        "url": "https://example.com/images/polo1.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://example.com/images/polo2.jpg"
+      }
+    ],
+    "prices": {
+      "b2c": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "n11": {
+        "list_price": "150",
+        "sale_price": "130"
+      },
+      "trendyol": {
+        "list_price": "145",
+        "sale_price": "128"
+      },
+      "hepsiburada": {
+        "list_price": "148",
+        "sale_price": "129"
+      },
+      "ciceksepeti": {
+        "list_price": "142",
+        "sale_price": "126"
+      },
+      "epttavm": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "pazarama": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "modanisa": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "pasaj": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "amazon": {
+        "list_price": "155",
+        "sale_price": "135"
+      },
+      "beymen": {
+        "list_price": "170",
+        "sale_price": "150"
+      },
+      "lcw": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "joom": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "etsy": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "hepsiglobal": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "exporgin": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "woo": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "idea": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "hipotenus": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "opencart": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "ethica": {
+        "list_price": "140",
+        "sale_price": "125"
+      },
+      "ikas": {
+        "list_price": "140",
+        "sale_price": "125"
+      }
+    },
+    "variants": [
+      {
+        "sku": "TEK-002-L",
+        "barcode": "1234567890124",
+        "model": {
+          "name": "Beden",
+          "value": "L"
+        },
+        "color": "Beyaz",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 25
+          }
+        ],
+        "images": []
+      },
+      {
+        "sku": "TEK-002-XL",
+        "barcode": "1234567890125",
+        "model": {
+          "name": "Beden",
+          "value": "XL"
+        },
+        "color": "Beyaz",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 20
+          }
+        ],
+        "images": []
+      }
+    ]
+  },
+  {
+    "sku": "AYK-003",
+    "category_id": 67,
+    "name": "Kadın Spor Ayakkabı",
+    "invoice_name": "Kadın Spor Ayakkabı Koşu",
+    "brand": "SportMax",
+    "description": "Rahat Koşu Ayakkabısı",
+    "currency": "TL",
+    "purchase_price": 200,
+    "sale_price": 350,
+    "vat_rate": 18,
+    "volumetric_weight": 1.2,
+    "barcode": "5556667778889",
+    "description_detail": "Hafif ve rahat kadın spor ayakkabısı. Koşu ve günlük aktiviteler için ideal. Nefes alabilen kumaş yapısı.",
+    "stocks": [
+      {
+        "warehouse": 1,
+        "stock": 30
+      },
+      {
+        "warehouse": 2,
+        "stock": 15
+      }
+    ],
+    "images": [
+      {
+        "id": 4,
+        "url": "https://example.com/images/ayakkabi1.jpg"
+      },
+      {
+        "id": 5,
+        "url": "https://example.com/images/ayakkabi2.jpg"
+      },
+      {
+        "id": 6,
+        "url": "https://example.com/images/ayakkabi3.jpg"
+      }
+    ],
+    "prices": {
+      "b2c": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "n11": {
+        "list_price": "420",
+        "sale_price": "370"
+      },
+      "trendyol": {
+        "list_price": "410",
+        "sale_price": "360"
+      },
+      "hepsiburada": {
+        "list_price": "415",
+        "sale_price": "365"
+      },
+      "ciceksepeti": {
+        "list_price": "405",
+        "sale_price": "355"
+      },
+      "epttavm": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "pazarama": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "modanisa": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "pasaj": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "amazon": {
+        "list_price": "430",
+        "sale_price": "380"
+      },
+      "beymen": {
+        "list_price": "450",
+        "sale_price": "400"
+      },
+      "lcw": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "joom": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "etsy": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "hepsiglobal": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "exporgin": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "woo": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "idea": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "hipotenus": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "opencart": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "ethica": {
+        "list_price": "400",
+        "sale_price": "350"
+      },
+      "ikas": {
+        "list_price": "400",
+        "sale_price": "350"
+      }
+    },
+    "variants": [
+      {
+        "sku": "AYK-003-37",
+        "barcode": "5556667778890",
+        "model": {
+          "name": "Numara",
+          "value": "37"
+        },
+        "color": "Siyah",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 8
+          }
+        ],
+        "images": []
+      },
+      {
+        "sku": "AYK-003-38",
+        "barcode": "5556667778891",
+        "model": {
+          "name": "Numara",
+          "value": "38"
+        },
+        "color": "Siyah",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 10
+          }
+        ],
+        "images": []
+      },
+      {
+        "sku": "AYK-003-39",
+        "barcode": "5556667778892",
+        "model": {
+          "name": "Numara",
+          "value": "39"
+        },
+        "color": "Siyah",
+        "stocks": [
+          {
+            "warehouse": 1,
+            "stock": 12
+          }
+        ],
+        "images": []
+      }
+    ]
+  }
+]
